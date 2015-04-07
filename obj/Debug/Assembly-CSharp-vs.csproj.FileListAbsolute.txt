@@ -1,0 +1,13 @@
+D:\COde\Unity\2dSidescrollertest\Kinbg of Balls\Temp\bin\Debug\Assembly-CSharp.dll
+D:\COde\Unity\2dSidescrollertest\Kinbg of Balls\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\COde\Unity\2dSidescrollertest\Kinbg of Balls\Temp\bin\Debug\UnityEditor.dll
+D:\COde\Unity\2dSidescrollertest\Kinbg of Balls\Temp\bin\Debug\UnityEngine.dll
+D:\COde\Unity\2dSidescrollertest\Kinbg of Balls\Temp\bin\Debug\UnityEngine.UI.dll
+D:\COde\Unity\2dSidescrollertest\Kinbg of Balls\Temp\bin\Debug\Mono.Cecil.dll
+D:\COde\Unity\2dSidescrollertest\Kinbg of Balls\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\COde\Unity\2dSidescrollertest\Kinbg of Balls\Temp\bin\Debug\Unity.DataContract.dll
+D:\COde\Unity\2dSidescrollertest\Kinbg of Balls\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\COde\Unity\2dSidescrollertest\Kinbg of Balls\Temp\bin\Debug\Unity.CecilTools.dll
+D:\COde\Unity\2dSidescrollertest\Kinbg of Balls\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\COde\Unity\2dSidescrollertest\Kinbg of Balls\obj\Debug\Assembly-CSharp.dll
+D:\COde\Unity\2dSidescrollertest\Kinbg of Balls\obj\Debug\Assembly-CSharp.pdb

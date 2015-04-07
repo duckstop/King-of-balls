@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Bounderies.cs" Line="38" Column="4" />
+      <File FileName="..\2dSidescrollertest\Assets\Scripts\HealthManager.cs" Line="1" Column="1" />
+      <File FileName="..\2dSidescrollertest\Assets\Scripts\LevelManager.cs" Line="57" Column="17" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player2Controller.cs" Line="11" Column="31" />
+      <File FileName="Assets\Scripts\LevekManager.cs" Line="56" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
