@@ -37,35 +37,37 @@ namespace Assets.Scripts
         // Update is called once per frame
         void FixedUpdate () {
 		
-            if (controlsActive) {
-                moveVertical = 0.0f;
-                moveHorizontal = 0.0f;
-			
-                if (Input.GetKey (KeyCode.W)) {
-				
-                    moveVertical = 1.0f;
-				
-                }
-			
-                if (Input.GetKey (KeyCode.S)) {
-			
-                    moveVertical = -1.0f;
-				
-                }
-                if (Input.GetKey (KeyCode.A)) {
-				
-                    moveHorizontal = -1.0f;
-				
-                }
-                if (Input.GetKey (KeyCode.D)) {
-				
-                    moveHorizontal = 1.0f;
-				
-                }
-			
-                Vector3 movement = new Vector3 (moveHorizontal, moveVertical, 0.0f);
-                myRigidBody.velocity = movement * speed;
-            }
+			if (GetComponent<NetworkView> ().isMine) {
+				if (controlsActive) {
+					moveVertical = 0.0f;
+					moveHorizontal = 0.0f;
+            	
+					if (Input.GetKey (KeyCode.W)) {
+            	
+						moveVertical = 1.0f;
+            	
+					}
+            	
+					if (Input.GetKey (KeyCode.S)) {
+            	
+						moveVertical = -1.0f;
+            	
+					}
+					if (Input.GetKey (KeyCode.A)) {
+            	
+						moveHorizontal = -1.0f;
+            	
+					}
+					if (Input.GetKey (KeyCode.D)) {
+            	
+						moveHorizontal = 1.0f;
+            	
+					}
+            	
+					Vector3 movement = new Vector3 (moveHorizontal, moveVertical, 0.0f);
+					myRigidBody.velocity = movement * speed;
+				}
+			}
 		
         }
 

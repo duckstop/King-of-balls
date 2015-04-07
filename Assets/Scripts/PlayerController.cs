@@ -41,43 +41,45 @@ namespace Assets.Scripts
 
         void FixedUpdate () {
 
-            if (controlsActive){
-
-		
-		
-                moveVertical = 0.0f;
-                moveHorizontal = 0.0f;
-
-
-                if (Input.GetKey (KeyCode.UpArrow)) {
-
-                    moveVertical = 1.0f;
-
-                }
-			
-		
-
-                if (Input.GetKey (KeyCode.DownArrow)) {
-			
-                    moveVertical = -1.0f;
-			
-                }
-                if (Input.GetKey (KeyCode.LeftArrow)) {
-				
-                    moveHorizontal = -1.0f;
-			
-                }
-                if (Input.GetKey (KeyCode.RightArrow)) {
-			
-                    moveHorizontal = 1.0f;
-			
-                }
-                Vector3 movement = new Vector3 (moveHorizontal, moveVertical, 0.0f);
-			
-                myRigidBody.velocity = movement * speed;
-              
-
-            }
+			if (GetComponent<NetworkView> ().isMine) {
+				if (controlsActive) {
+            	
+            	
+            	
+					moveVertical = 0.0f;
+					moveHorizontal = 0.0f;
+            	
+            	
+					if (Input.GetKey (KeyCode.UpArrow)) {
+            	
+						moveVertical = 1.0f;
+            	
+					}
+            	
+            	
+            	
+					if (Input.GetKey (KeyCode.DownArrow)) {
+            	
+						moveVertical = -1.0f;
+            	
+					}
+					if (Input.GetKey (KeyCode.LeftArrow)) {
+            	
+						moveHorizontal = -1.0f;
+            	
+					}
+					if (Input.GetKey (KeyCode.RightArrow)) {
+            	
+						moveHorizontal = 1.0f;
+            	
+					}
+					Vector3 movement = new Vector3 (moveHorizontal, moveVertical, 0.0f);
+            	
+					myRigidBody.velocity = movement * speed;
+            	  
+            	
+				}
+			}
 
 	
 
@@ -93,7 +95,7 @@ namespace Assets.Scripts
 		
                 intersects = true;
 
-                Player2Controller p2 = FindObjectOfType<Player2Controller>();
+              /*  Player2Controller p2 = FindObjectOfType<Player2Controller>();
 
                 if(moveHorizontal > 0){
 
@@ -112,7 +114,7 @@ namespace Assets.Scripts
                 }
 
 
-
+			*/
 
 
 
