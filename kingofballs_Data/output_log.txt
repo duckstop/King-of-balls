@@ -1,0 +1,4813 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Default GameObject Tag: Player already registered
+ 
+(Filename:  Line: 78)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\COde\Unity\Projects\King-of-balls\kingofballs_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\COde\Unity\Projects\King-of-balls\kingofballs_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\COde\Unity\Projects\King-of-balls\kingofballs_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\COde\Unity\Projects\King-of-balls\kingofballs_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\COde\Unity\Projects\King-of-balls\kingofballs_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\COde\Unity\Projects\King-of-balls\kingofballs_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.031 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\COde\Unity\Projects\King-of-balls\kingofballs_Data\Managed\System.Core.dll (this message is harmless)
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Default GameObject Tag: Player already registered
+ 
+(Filename:  Line: 78)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\COde\Unity\Projects\King-of-balls\kingofballs_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\COde\Unity\Projects\King-of-balls\kingofballs_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\COde\Unity\Projects\King-of-balls\kingofballs_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\COde\Unity\Projects\King-of-balls\kingofballs_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\COde\Unity\Projects\King-of-balls\kingofballs_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\COde\Unity\Projects\King-of-balls\kingofballs_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.030 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\COde\Unity\Projects\King-of-balls\kingofballs_Data\Managed\System.Core.dll (this message is harmless)
+Starting Server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Server initialized
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Registered Server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Refreshing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization error. Received packet but the observed class is not supported as a synchronization type
+ 
+(Filename:  Line: 311)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization error. Received packet but the observed class is not supported as a synchronization type
+ 
+(Filename:  Line: 311)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Registered Server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Assets.Scripts.Bounderies.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Assets.Scripts.Bounderies.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Assets.Scripts.Bounderies.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Assets.Scripts.Bounderies.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Assets.Scripts.Bounderies.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Assets.Scripts.Bounderies.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Assets.Scripts.Bounderies.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Assets.Scripts.Bounderies.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Assets.Scripts.Bounderies.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Assets.Scripts.Bounderies.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Assets.Scripts.Bounderies.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Assets.Scripts.Bounderies.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Assets.Scripts.Bounderies.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Assets.Scripts.Bounderies.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Assets.Scripts.Bounderies.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Assets.Scripts.Bounderies.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °ÍøŽØÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Connection lost to NAT facilitator, reconnecting.
+
+ 
+(Filename:  Line: 734)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Already connected to the master server, the server probably hasn't cleaned up because of an abrupt disconnection.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Assets.Scripts.Bounderies.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Assets.Scripts.Bounderies.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Assets.Scripts.Bounderies.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Assets.Scripts.Bounderies.OnTriggerEnter2D (UnityEngine.Collider2D other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+Network View synchronization of  °Íø Øÿÿ* is not supported. Pack the state manually from a script.
+ 
+(Filename:  Line: 2472)
+
+The server has disconnected from the client. Most likely the server has shut down.
+ 
+(Filename:  Line: 754)
+
